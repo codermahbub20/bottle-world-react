@@ -1,0 +1,17 @@
+.bottle img{
+    width: 250px;
+    border-radius: 10px;
+}
+.bottle{
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+}
+.bottle button{
+    margin-bottom: 20px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
